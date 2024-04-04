@@ -7,7 +7,7 @@ BuildArch: noarch
 
 Group: System Environment/Base
 License: GPLv2
-URL: https://github.com/jnavarro/redborder-repo
+URL: https://github.com/jnavarrorb/redborder-repo
 Source0: %{name}-%{version}.tar.gz
 Requires: epel-release
 
