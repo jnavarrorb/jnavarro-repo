@@ -1,0 +1,6 @@
+[jnavarro-devel]
+name=jnavarro repository devel
+baseurl=http://rbrepo.redborder.lan/jnavarro/
+gpgcheck=0
+enabled=1
+sslcheck=0
