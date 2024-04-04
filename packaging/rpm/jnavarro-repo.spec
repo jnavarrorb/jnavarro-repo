@@ -2,8 +2,7 @@ Name: jnavarro-repo
 Version: %{__version}
 Release: %{__release}%{?dist}
 BuildArch: noarch
-Summary: package for redBorder repository	
-BuildArch: noarch
+Summary: package for redBorder repository
 
 Group: System Environment/Base
 License: GPLv2
